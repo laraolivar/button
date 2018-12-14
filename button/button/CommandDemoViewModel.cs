@@ -33,7 +33,6 @@ namespace button
         }
         public Command MultiplyBy2Command { private set; get; }
         public Command DivideBy2Command { private set; get; }
-        }
-
     }
 }
+

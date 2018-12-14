@@ -9,7 +9,7 @@
     </ContentPage.BindingContext>
 
     <StackLayout>
-        <Label Text="{Binding Number, StringFormat='Value is now{0}'}"
+        <Label Text="{Binding Number, StringFormat='Value is now {0}'}"
                FontSize="Large"
                VerticalOptions="CenterAndExpand"
                HorizontalOptions="Center" />
